@@ -1,3 +1,6 @@
+P2 260 exam
+
+
 def calculate_average(a1, a2, a3):
     total = a1 + a2 + a3
     avg = total / 3
